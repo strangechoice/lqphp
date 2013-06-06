@@ -1,0 +1,4 @@
+<?
+class LQFB_Authentication {
+}
+?>

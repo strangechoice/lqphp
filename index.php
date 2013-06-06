@@ -1,4 +1,6 @@
 <?
+    require_once("classes/LQFB/Authentication.class.php");
+
     $pghost = "localhost";
     $pguser = "www-data";
     $pgdb   = "liquid_playground";
